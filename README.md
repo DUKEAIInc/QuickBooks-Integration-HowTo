@@ -75,7 +75,13 @@ We recommend using the following answers below. If there is not a recommended an
    - For the instruction link, you can point to [this current GitHub repo][this readme] that you're already on.
 2. On the Re-CAPTCHA question, answer "No. My app does not process payments"
 3. Click "Submit" at the bottom. You will get a confirmation screen. Close the questionnaire tab in the browser.
-4. Return to the App Dashboard tab and refresh the page. The App should show IN PRODUCTION.
+4. Return to the App Dashboard tab and refresh the page. The App should show IN PRODUCTION. ![6-in-prod](./6-in-prod.png)
+
+### Connect to DUKE.AI
+The DUKE platform will need these access keys to post bills to the ZSF QBO account.
+These keys are stored in an encrypted database to comply with security concerns.
+Please contact a technical representative at DUKE.AI to set up a one-time integration meeting.
+
 
 
 [intuit developer homepage]: https://developer.intuit.com/app/developer/homepage
